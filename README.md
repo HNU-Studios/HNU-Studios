@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi, welcome to HNU Studios, an indie game dev company
+We're currently working on the first episode of the Zandris trilogy, Nocturne: Orpheum. Follow our development and our socials!
+Insta: @HNU_Studios
+YouTube: HNU Studios
+![My stats](https://github-readme-stats.vercel.app/api?username=HNU-Studios&show_icons=true&theme=midnight-purple)
 
 <!--
 **HNU-Studios/HNU-Studios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
