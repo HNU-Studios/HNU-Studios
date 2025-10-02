@@ -2,6 +2,7 @@
 We're currently working on the first episode of the Zandris trilogy, Nocturne: Orpheum. Follow our development and our socials!
 Insta: @HNU_Studios
 YouTube: HNU Studios
+
 ![My stats](https://github-readme-stats.vercel.app/api?username=HNU-Studios&show_icons=true&theme=midnight-purple)
 
 <!--
